@@ -31,7 +31,7 @@ function Workspace() {
     >
       <Form className="flex flex-col justify-center ">
       <div className="text-2xl font-medium self-center mb-2">Lets Set up a home for all your work</div>
-      <div className="font-small self-center text-gray-900 mb-2">You can always create another workspace later </div>
+      <div className="font-small self-center text-gray-600 mb-2">You can always create another workspace later </div>
         <div className="flex flex-col  mb-2">
           <label className="font-medium text-gray-900">Workspace Name</label>
           <Field
